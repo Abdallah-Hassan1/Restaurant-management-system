@@ -11,3 +11,7 @@
   <summary>Admin Page</summary>
   <img src="https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/a9b420c6-4b3c-430c-bc76-b390a063c965" />
 </details>
+<details>
+  <summary>Manage Passwords</summary>
+  <img src="https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/aaa93c0d-05f0-4fb2-bfa3-f64b011513f8" />
+</details>
