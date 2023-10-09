@@ -1,7 +1,7 @@
 # Resturant-management-system
 <details>
   <summary>Login</summary>
-  ![image](https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/249194fb-ff3a-434c-b665-74a76d2b45ed)
+  <img src="https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/58ad3379-dad8-41d1-8945-30eddd672e4c" />
 </details>
 <details>
   <summary>Login</summary>
