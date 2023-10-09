@@ -4,10 +4,10 @@
   <img src="https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/58ad3379-dad8-41d1-8945-30eddd672e4c" />
 </details>
 <details>
-  <summary>Login</summary>
-  ![image](https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/6182955d-be24-4bd4-b917-f9b55ab52344)
+  <summary>Cashier Page</summary>
+  <img src="https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/6182955d-be24-4bd4-b917-f9b55ab52344" />
 </details>
 <details>
-  <summary>Login</summary>
-  ![image](https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/a9b420c6-4b3c-430c-bc76-b390a063c965)
+  <summary>Admin Page</summary>
+  <img src="https://github.com/Abdallah-Hassan1/Restaurant-management-system/assets/91224794/a9b420c6-4b3c-430c-bc76-b390a063c965" />
 </details>
